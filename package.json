@@ -14,7 +14,7 @@
     "links",
     "markdown"
   ],
-  "author": "soheidon",
+  "author": "Sohei Ide",
   "license": "MIT",
   "devDependencies": {
     "@codemirror/language": "^6.12.4",
