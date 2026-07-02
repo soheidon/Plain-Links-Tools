@@ -29,7 +29,7 @@ const EMAIL_PATTERN =
   String.raw`\b[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b`;
 
 const EMAIL_DECORATION = Decoration.mark({
-  class: "plain-links-tools-bare-email",
+  class: "plain-links-tools-bare-email plain-links-tools-plain-email",
 });
 
 function findEmails(text: string): RegExpMatchArray[] {

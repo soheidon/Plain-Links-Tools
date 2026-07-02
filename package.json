@@ -1,6 +1,6 @@
 {
   "name": "plain-links-tools",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "description": "Convert Markdown links in the current note to plain text or URLs.",
   "main": "main.js",
   "scripts": {
