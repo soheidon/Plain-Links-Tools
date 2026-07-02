@@ -1,5 +1,7 @@
 # Plain Links Tools
 
+[English](../README.md) | 日本語
+
 現在のノート内の Markdown リンクをプレーンテキストや URL に変換する Obsidian プラグインです。また、ベアメールアドレス（`user@example.com` のようなリンク構文なしのメールアドレス）を、クリック可能な mailto リンクではなくプレーンテキストとして表示します。Reading View と Live Preview の両方に対応しています。
 
 ## 機能

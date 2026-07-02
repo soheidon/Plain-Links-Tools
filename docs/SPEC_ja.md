@@ -1,5 +1,7 @@
 # Plain Links Tools — 仕様書
 
+[English](../SPEC.md) | 日本語
+
 ## 概要
 
 [Obsidian](https://obsidian.md) 用のプラグインで、Markdown リンクを操作するツールを提供します。特に、ベアメールアドレスをクリック可能な mailto リンクではなくプレーンテキストとして表示することに焦点を当てています。

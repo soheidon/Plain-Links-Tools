@@ -1,6 +1,6 @@
 # Plain Links Tools
 
-> [日本語版はこちら](docs/README_ja.md)
+English | [日本語](docs/README_ja.md)
 
 Obsidian plugin to convert Markdown links in the current note to plain text or URLs. Also makes bare email addresses render as plain text (not clickable mailto links) in both Reading View and Live Preview.
 

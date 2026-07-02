@@ -1,6 +1,6 @@
 # Plain Links Tools — Specification
 
-> [日本語版はこちら](docs/SPEC_ja.md)
+English | [日本語](docs/SPEC_ja.md)
 
 ## Overview
 
