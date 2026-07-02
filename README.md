@@ -31,9 +31,9 @@ Copy `main.js`, `manifest.json`, and `styles.css` into `VaultFolder/.obsidian/pl
 
 | Action | How |
 |--------|-----|
-| Convert links to display text | Command palette → "現在のノートのリンクを表示文字列に変換" or ribbon menu |
-| Convert links to URLs | Command palette → "現在のノートのMarkdownリンクをURLに変換" or ribbon menu |
-| Toggle email plain text | Ribbon menu → "メールアドレスを文字列として表示" |
+| Convert links to display text | Command palette or ribbon menu → "Convert links to display text" |
+| Convert links to URLs | Command palette or ribbon menu → "Convert Markdown links to URLs" |
+| Toggle email plain text | Ribbon menu → "Show email addresses as plain text" |
 
 ## License
 
