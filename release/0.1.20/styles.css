@@ -1,0 +1,34 @@
+/* Plain Links Tools v0.1.18 */
+
+/* --- Reading View --- */
+.plain-links-tools-auto-mailto-text {
+  color: var(--text-normal);
+  text-decoration: none;
+  cursor: text;
+}
+
+/* --- Live Preview / Editor --- */
+
+/* Kill parent .cm-url / .cm-underline link styling when bare email is inside */
+.cm-line .cm-url:has(.plain-links-tools-bare-email),
+.cm-line .cm-url:has(.plain-links-tools-bare-email) .cm-underline {
+  color: var(--text-normal) !important;
+  text-decoration: none !important;
+  text-decoration-line: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  cursor: text !important;
+}
+
+/* The decorated span itself */
+.cm-line .plain-links-tools-bare-email {
+  color: var(--text-normal) !important;
+  text-decoration: none !important;
+  cursor: text !important;
+}
+
+/* Hide external-link icon */
+.cm-line .cm-url:has(.plain-links-tools-bare-email) .external-link,
+.cm-line .cm-url:has(.plain-links-tools-bare-email) svg {
+  display: none !important;
+}
