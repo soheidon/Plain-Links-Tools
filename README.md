@@ -37,4 +37,4 @@ Copy `main.js`, `manifest.json`, and `styles.css` into `VaultFolder/.obsidian/pl
 
 ## License
 
-MIT
+[MIT](LICENSE)
