@@ -1,5 +1,7 @@
 # Plain Links Tools — Specification
 
+> [日本語版はこちら](docs/SPEC_ja.md)
+
 ## Overview
 
 A plugin for [Obsidian](https://obsidian.md) that provides tools for working with Markdown links, with a particular focus on making bare email addresses render as plain text rather than clickable mailto links.
