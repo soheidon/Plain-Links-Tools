@@ -1,0 +1,5 @@
+node_modules/
+*.js
+!esbuild.config.mjs
+!main.js
+.claude/
